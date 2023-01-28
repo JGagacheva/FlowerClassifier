@@ -1,2 +1,2 @@
 # FlowerClassifier
-Computer vision starting project in TensorFlow and Keras
+Computer vision toy project in TensorFlow and Keras
